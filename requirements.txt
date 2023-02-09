@@ -4,3 +4,4 @@ matplotlib==3.5.3
 matplotlib-inline==0.1.6
 stack-data==0.4.0
 statistic==0.1.6
+plotly==5.10.0
